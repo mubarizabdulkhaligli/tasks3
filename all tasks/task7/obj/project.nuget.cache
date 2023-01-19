@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEOA2BjAQmnOQr+oRilCj22su4A+SUxkLJ562s9mGLmW7J7nxhBFQdCG5bLv4SAx01qZdrRLDVm39497EnFgOQ==",
+  "success": true,
+  "projectFilePath": "/Users/mubarizabdulkhaligli/Desktop/all/all tasks/task7/task7.csproj",
+  "expectedPackageFiles": [
+    "/Users/mubarizabdulkhaligli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mubarizabdulkhaligli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/mubarizabdulkhaligli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
